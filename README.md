@@ -4,11 +4,11 @@ Inventario en flutter es una aplicación sencilla desarrollada en Flutter para g
 
 ## Características
 
-*Registrar nuevos productos.
-*Eliminar productos existentes.
-*Actualizar detalles de productos.
-*Aumentar el stock de productos.
-*Disminuir el stock de productos.
+1. Registrar nuevos productos.
+2. Eliminar productos existentes.
+3. Actualizar detalles de productos.
+4. Aumentar el stock de productos.
+5. Disminuir el stock de productos.
 
 ## Explicacion en video
 - [Pulsa aqui para ver el video del funcionamiento](https://drive.google.com/file/d/1UbqcTDFXcD1DY9NTmxycSRoFAGlzsh4Q/view)
