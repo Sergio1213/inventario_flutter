@@ -1,16 +1,15 @@
 # Inventario en flutter
 
-A new Flutter project.
+Inventario en flutter es una aplicación sencilla desarrollada en Flutter para gestionar el inventario de productos. Con esta aplicación, puedes registrar nuevos productos, eliminar productos existentes, actualizar detalles de productos, y ajustar las cantidades de stock (aumentar o disminuir).
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+Registrar nuevos productos.
+Eliminar productos existentes.
+Actualizar detalles de productos.
+Aumentar el stock de productos.
+Disminuir el stock de productos.
 
-A few resources to get you started if this is your first Flutter project:
+## Explicacion en video
+- [Pulsa aqui para ver el video del funcionamiento](https://drive.google.com/file/d/1UbqcTDFXcD1DY9NTmxycSRoFAGlzsh4Q/view)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
